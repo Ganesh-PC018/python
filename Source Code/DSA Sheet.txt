@@ -1,0 +1,38 @@
+Two Pointers
+
+Island(Matrix Traversal)
+
+Fast & Slow Pointers
+
+
+Sliding Window
+
+Merge Intervals
+
+Cyclic sort
+
+in-place Reversal of a Linked List
+
+Tree Breadth First Search
+
+Two Heaps
+
+Subsets
+
+Modified Binary Search
+
+Top 'K' Elements
+
+Bitwise XOR
+
+Backtracking
+
+0/1 Knapsack (DP)
+
+Topological Sort(graph)
+
+K-way Merge
+
+Monotonic Stack
+
+Multi Threaded
